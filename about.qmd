@@ -1,0 +1,8 @@
+---
+title: "About"
+---
+
+## About me
+
+My work integrates functional, spatial, and evolutionary ecology to explore tropical biodiversity.
+
